@@ -38,3 +38,13 @@
 
   }
 }
+@media screen and (max-width: 800px) {
+   .col-2 {
+  border-right: 20px solid white;
+  }
+}
+@media screen and (max-width: 800px) {
+   .col-4 {
+  border-left: 20px solid white;
+  }
+}
