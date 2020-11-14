@@ -148,7 +148,7 @@ li a:hover {
 /* NOTE: Column 2 */
 .col-2 {
   position: relative;
-  background-image: url("../images/sm.jpg");
+  background-image: url("sidehustlelife.github.io/images/sm.jpg");
   background-size: cover;
   border-top: 20px solid white;
   border-bottom: 20px solid white;
@@ -157,14 +157,14 @@ li a:hover {
 
 /* NOTE: Column 3 */
 .col-3 {
-  background-image: url("../images/marketing.jpg");
+  background-image: url("sidehustlelife.github.io/images/marketing.jpg");
   background-size: cover;
   border: 20px solid white;
 }
 /* NOTE: Column 4 */
 .col-4 {
 
-  background-image: url("../images/funnel.jpg");
+  background-image: url("sidehustlelife.github.io/images/funnel.jpg");
   background-size: cover;
   border-top: 20px solid white;
   border-bottom: 20px solid white;
